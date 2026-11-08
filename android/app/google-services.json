@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916388507388",
+    "project_id": "skinit-6606b",
+    "storage_bucket": "skinit-6606b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916388507388:android:93afc42840d03f3e68f179",
+        "android_client_info": {
+          "package_name": "com.example.skinit_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyK7WSNwe0WaMRHiVeukMfAZq2Yax3PN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
